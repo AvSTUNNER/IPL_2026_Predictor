@@ -1,0 +1,7 @@
+*.csv
+plots/
+advanced_model.py
+model.py
+README.md
+train_and_save.py
+.git/
